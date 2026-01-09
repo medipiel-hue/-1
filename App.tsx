@@ -96,9 +96,10 @@ const App: React.FC = () => {
               지원 제도 활용 시<br className="md:hidden" />
               <span className="text-blue-700 font-black"> 수백만 원 단위 비용 절감 사례</span> 다수
             </p>
-            <p className="text-gray-950 text-xl md:text-2xl font-black leading-snug">
-              <span className="border-b-4 border-blue-200">사진 한 장이면</span><br className="md:hidden" /> 
-              지원 여부 포함 즉시 견적 가능
+            <p className="text-gray-950 text-xl md:text-2xl font-black leading-[1.4]">
+              <span className="border-b-4 border-blue-200">사진 한 장이면</span>
+              <br /> 
+              지원 여부 포함 즉시 견적 가능합니다
             </p>
           </div>
           
